@@ -6,8 +6,9 @@
 - 🏍️ 🚴 📷 I enjoy riding bicycle and motorcyle, and taking photos while traveling.
 
 - A different ME on the other side of a screen:
-b6.JPG![b6](https://user-images.githubusercontent.com/58123635/121838824-b3510180-cca6-11eb-9826-74fed23f028a.JPG)
-b79.jpg![b79](https://user-images.githubusercontent.com/58123635/121838907-ec897180-cca6-11eb-9a11-967c7311d2ea.jpg)
+
+MotocycleTrip![b6](https://user-images.githubusercontent.com/58123635/121838824-b3510180-cca6-11eb-9826-74fed23f028a.JPG)
+ExperiencingThings![b79](https://user-images.githubusercontent.com/58123635/121838907-ec897180-cca6-11eb-9a11-967c7311d2ea.jpg)
 
 
 <!---
