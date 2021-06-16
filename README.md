@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nhat Nguyen @ngnnah
 - 🎓 I've just graduated from MIT, with a major in Computer Science and Engineering. 
-- 👀 I’m interested in Software Engineering, clean and performant Python code.
+- 👀 I’m interested in design and implementation of software applications, and clean and performant Python code.
 - 🌱 I’m currently learning databases, SQL, Django, Selenium, more Python and JavaScript and automation.
 - 💞️ I’m looking to collaborate on open source and non-profit projects. 
 - 📫 How to reach me [Instagram](https://www.instagram.com/nhatn1507/), [LinkedIn](https://www.linkedin.com/in/nhat-nguyen-51b1a5214/), [email](ngnnah@gmail.com)
