@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nhat Nguyen @ngnnah
+- 👋 Hi, I’m Nhat Nguyen @github.com/ngnnah
 - 🎓 I've just graduated from MIT (Jun 2021), with a major in Computer Science and Engineering. 
 - 👀 I’m interested in design and implementation of software applications, and clean and performant Python code.
 - 🌱 I’m currently learning databases, SQL, Django, Selenium, more Python and JavaScript and automation.
