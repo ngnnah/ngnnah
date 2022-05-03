@@ -7,7 +7,7 @@
 - 📫 I can be reached at: [Instagram](https://www.instagram.com/nhatn1507/), [LinkedIn](https://www.linkedin.com/in/nhat-nguyen-51b1a5214/), [email](ngnnah@gmail.com)
 - 🏍️ 🚴 📷  I enjoy riding bicycle and motorcyle, and taking photos while traveling.
 
-### A different ME on the other side of a screen 
+### A different ME on the other side of the screen 
 #### (who are moving and kicking behind the camera lens) instead of (the usual me who usually sits in front of laptop screens):
 
 
